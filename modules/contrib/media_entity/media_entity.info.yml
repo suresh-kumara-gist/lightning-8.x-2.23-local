@@ -1,0 +1,12 @@
+name: Media entity (2.x)
+description: 'Media entity API.'
+type: module
+package: Media
+core: 8.x
+version: 8.x-2.0-dev
+dependencies:
+  - drupal:image
+  - drupal:user
+  - drupal:views
+  - entity:entity
+  - drupal:system
